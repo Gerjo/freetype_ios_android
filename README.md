@@ -10,7 +10,7 @@ Usage:
 ====================
 Get a copy of the FreeType2 source code. E.g., at http://sourceforge.net/projects/freetype/files/freetype2/
 
-Place either buildscript '_freetype_android.sh_' or '_./freetype_ios.sh_' in the FreeType folder. Run either script through '_./freetype_android.sh_' or '_freetype_ios.sh_'. The build artifacts (static library) will appear in the same folder.
+Place either buildscript '_freetype_android.sh_' or '_./freetype_ios.sh_' in the FreeType folder. Run either script through '_./freetype_android.sh_' or '_./freetype_ios.sh_' (assuming they've been made executable). The build artifacts (static library) will appear in the same folder.
 
 You may need to make the buildscripts executable, '_chmod +x freetype_ios.sh_' should do the trick. Each script contains a few variables that specify SDK locations - you may need to configure those.
 

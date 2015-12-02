@@ -17,7 +17,7 @@ You may need to make the buildscripts executable, '_chmod +x freetype_ios.sh_' s
 
 iOS notes:
 ====================
-The iOS static library will be compatible with _armv7_, _armv7s_ and _i386_. The latter is required for the iOS simulator.
+The iOS static library will be compatible with _arm64_, _armv7_, _armv7s_ and _i386_. The latter is required for the iOS simulator. Bitcode support enabled.
 
 
 Android notes:

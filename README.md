@@ -27,7 +27,7 @@ The Android static library will only contain _arm7_ instructions. The script cou
 
 Compatibility:
 ====================
-The scripts are only tested on OS X 10.8 - The Android script may work on Linux, too.
+The scripts are only tested on OS X 10.8 and 10.11.1 - The Android script may work on Linux, too.
 
 
 Contact:
